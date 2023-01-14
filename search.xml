@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>第二篇</title>
+      <link href="/2022/12/14/2022-12-24%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0-copy-2/"/>
+      <url>/2022/12/14/2022-12-24%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0-copy-2/</url>
+      
+        <content type="html"><![CDATA[<h1 id="这是第二篇"><a href="#这是第二篇" class="headerlink" title="这是第二篇"></a>这是第二篇</h1>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第二篇</title>
+      <link href="/2022/12/14/2022-12-24%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0-copy-3/"/>
+      <url>/2022/12/14/2022-12-24%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0-copy-3/</url>
+      
+        <content type="html"><![CDATA[<h1 id="这是第二篇"><a href="#这是第二篇" class="headerlink" title="这是第二篇"></a>这是第二篇</h1>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第二篇</title>
+      <link href="/2022/12/14/2022-12-24%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0-copy-4/"/>
+      <url>/2022/12/14/2022-12-24%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0-copy-4/</url>
+      
+        <content type="html"><![CDATA[<h1 id="这是第二篇"><a href="#这是第二篇" class="headerlink" title="这是第二篇"></a>这是第二篇</h1>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第二篇</title>
+      <link href="/2022/12/14/2022-12-24%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0-copy-5/"/>
+      <url>/2022/12/14/2022-12-24%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0-copy-5/</url>
+      
+        <content type="html"><![CDATA[<h1 id="这是第二篇"><a href="#这是第二篇" class="headerlink" title="这是第二篇"></a>这是第二篇</h1>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第二篇</title>
+      <link href="/2022/12/14/2022-12-24%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0-copy/"/>
+      <url>/2022/12/14/2022-12-24%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0-copy/</url>
+      
+        <content type="html"><![CDATA[<h1 id="这是第二篇"><a href="#这是第二篇" class="headerlink" title="这是第二篇"></a>这是第二篇</h1>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第二篇</title>
+      <link href="/2022/12/14/2022-12-24%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2022/12/14/2022-12-24%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h1 id="这是第二篇"><a href="#这是第二篇" class="headerlink" title="这是第二篇"></a>这是第二篇</h1>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第一篇</title>
+      <link href="/2022/12/14/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2022/12/14/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Github-action"><a href="#Github-action" class="headerlink" title="Github action"></a>Github action</h1><p>Error: The process ‘/usr/bin/git’ failed with exit code 1<br>部署上去之后检查分支这里报错了怎么解决</p><p>是远程与本地工程文件不一致导致</p><p><strong>$git pull –rebase</strong> origin main</p><p>再使用 $git rebase –continue</p><p>执行完$git pull –rebase 之后，本地如果产生冲突，手动解决冲突之后，用”git add”命令去更新这些内容的索引(index)，然后只要执行:</p><p>$ git rebase –continue 就可以线性的连接本地分支与远程分支，无误之后就回退出，回到主分支上。</p><p>注意：一般情况下，修改后检查没问题，使用rebase continue来合并冲突。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
